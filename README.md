@@ -4,11 +4,11 @@
 	前置条件
 	编译和运行该项目，需要以下环境配置：
 
-	C++17或更高。
+	C++17或更高
 	Win32，多字节字符集
-	DirectX9 SDK。
-	Dear ImGui。
-	Windows 操作系统。
+	DirectX9 SDK
+	ImGui
+	Windows 操作系统
 
  2048 Game - C++ Implementation with DirectX9 and ImGui
 
@@ -17,7 +17,7 @@
 	To compile and run the project, ensure you have the following set up:
 
 	C++17 (or higher).
-	DirectX9 SDK.
+	DirectX9 SDK
 	Win32 ,Multi-Byte Character
-	Dear ImGui .
-	Windows operating system .
+	ImGui 
+	Windows operating system 
